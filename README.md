@@ -12,7 +12,7 @@ This is a simple command-line Blackjack game that you can play with the computer
 # Getting Started
 To run the game, simply run:  
 ~~~
-blackjack.py
+main.py
 ~~~
 The game will prompt you to input whether you want to play or not.
 
